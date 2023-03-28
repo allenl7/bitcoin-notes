@@ -7,9 +7,13 @@ resources to understand the technical details of bitcoin
 
 # articles
 - https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
+- A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography. 
+https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
+takes you through RSA and then ECC with concrete simple examples.
 
 # books
 Mastering Bitcoin - https://github.com/bitcoinbook/bitcoinbook
+Can not recommend this book enough. This book goes through all the technical details of all asepcts of Bitcoin.
 
 # courses
 Princeton Bitcoin 2015 Course - https://www.youtube.com/@bitcoinandcryptocurrencyte3219/videos
