@@ -6,6 +6,7 @@ resources to understand the technical details of bitcoin
 - 
 
 # articles
+- Bitcoin white paper https://nakamotoinstitute.org/bitcoin/ The Bitcoin whitepaper is actually not really too hard to understand. It is important to see his key insight of reaching consensus with 1 CPU 1 vote and the incentive for miners.
 - https://www.igvita.com/2014/05/05/minimum-viable-block-chain/
 - A (Relatively Easy To Understand) Primer on Elliptic Curve Cryptography. 
 https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
