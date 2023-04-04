@@ -25,3 +25,4 @@ Princeton Bitcoin 2015 Course - https://www.youtube.com/@bitcoinandcryptocurrenc
 - The authoritative guide to blockchain development by Haseeb Qureshi. https://haseebq.com/the-authoritative-guide-to-blockchain-development/ 
 - https://www.lopp.net/
 - https://learnmeabitcoin.com/
+- http://royalforkblog.github.io/
